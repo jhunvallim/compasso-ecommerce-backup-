@@ -1,0 +1,11 @@
+:root {
+  /* Colors */
+  --primary-color: #FFFFFF;
+  --secondary-color:#F2F0F1;
+  --tertiary-color: #000000;
+
+  /* Fonts */
+
+  --integral: 'Integral', sans-serif;
+  --satoshi: 'Calibri', sans-serif;
+}
