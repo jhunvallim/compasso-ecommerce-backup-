@@ -6,6 +6,13 @@
   border: 1px solid blue;
 }
 
+/* Default container 1440px */
+.container {
+  width: 1240px;
+  margin: 0 auto;
+  border: 1px solid red;
+}
+
 /* Flex Row */
 .fr {
   display: flex;
@@ -17,14 +24,5 @@
 .center {
   justify-content: center;
   align-items: center;
-}
-
-/* Links effects */
-.links {
-  transition: 0.2s ease-in-out;
-  &:hover {
-    transform: scale(1.1);
-    opacity: .8;
-  }  
 }
 
