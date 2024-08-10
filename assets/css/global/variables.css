@@ -1,11 +1,13 @@
 :root {
   /* Colors */
-  --primary-color: #FFFFFF;
-  --secondary-color:#F2F0F1;
-  --tertiary-color: #000000;
+  --primaryColor: #FFFFFF;
+  --secondaryColor:#F2F0F1;
+  --tertiaryColor: #000000;
 
   /* Fonts */
 
-  --integral: 'Integral', sans-serif;
-  --satoshi: 'Calibri', sans-serif;
+  --title: 'Integral', sans-serif;
+  --textRegular: 'Satoshi Regular', sans-serif;
+  --textBold: 'Satoshi Bold', sans-serif;
+  --textMedium: 'Satoshi Medium', sans-serif;
 }
